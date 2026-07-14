@@ -1,65 +1,78 @@
-# 👋 Hola, soy Eli-ezer Reuven Ramírez Ruiz
+# Hi! I'm Eli-ezer Ramírez Ruiz 👋 🇨🇱
 
-💻 **Software Architect | Fullstack Developer | UX Enthusiast**  
-🌍 Desde Santiago, Chile  
-🚀 Apasionado por crear productos digitales confiables, accesibles y con impacto real.
+I am a **Software Engineer** and **FullStack Developer** based in Santiago, Chile. I specialize in designing high-performance REST APIs, orchestrating microservices, and optimizing both relational and NoSQL databases. I am deeply passionate about solving complex technical problems, modernizing legacy systems, and building both low-level and high-level Open Source tools.
 
 ---
 
-## 🧩 Sobre mí
+### 🚀 Featured Projects
 
-Soy desarrollador de software con más de 4 años de experiencia en desarrollo Full Stack, arquitectura de software y modernización de plataformas. He liderado iniciativas técnicas en Frontend, Backend y DevOps, logrando mejoras significativas en rendimiento, escalabilidad y experiencia de usuario.
-
-- 🔧 Experto en Kotlin, TypeScript, Python y Zig  
-- 🧱 Desarrollo de apps educativas accesibles y confiables  
-- 🌟 Interesado en branding digital y posicionamiento de productos  
-- ✨ Promotor de buenas prácticas: Clean Code, SOLID, CI/CD  
-- 📊 Mejoras comprobadas: +65% en reportes, +55% en rendimiento web
+*   ✈️ **Turismo Sur** — Tourism scheduling system built with a robust backend in FastAPI, a fast NextJS frontend, and PostgreSQL. Deployed using an API REST architecture on Vercel.
+*   🌍 **Velageo** — Enterprise monitoring platform built with NestJS and React. Efficiently deployed on Google Cloud Run (GCR) with automated performance monitoring.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🚀 Active Open Source Projects
 
-**Lenguajes:** Java, Python, TypeScript, Kotlin, Zig  
-**Frameworks:** Angular 14+, React, NextJS, NestJS, FastAPI, Flask, Django, Astro  
-**Bases de datos:** PostgreSQL, SQL Server, MySQL, Firebase, MongoDB  
-**Infraestructura:** Docker, Kubernetes, Redis, NGINX, Apache, GCP, AWS, Azure  
-**Diseño UX/UI:** Bootstrap, Tailwind, Material Design  
-**Metodologías:** Scrum, Kanban, Open Source  
-**Sistemas:** Windows Server 2019, Linux (Ubuntu, Debian, Fedora)
+Here are the tools and libraries I am currently building and maintaining:
+
+*   📦 **[bcch-sdk](https://github.com)** (Python) - *Active / In Development*
+    A Python SDK designed to streamline the integration, consumption, and structured extraction of macroeconomic data series from the **Central Bank of Chile (Banco Central)** official API.
+*   🛠️ **[rut-validator](https://pypi.org)** (Python) - *Published on PyPI / In Development*
+    An open-source library for **validating and formatting Chilean RUTs**. Distributed officially via PyPI to simplify form validation and data compliance in local software systems.
+*   🦀 **[bmp](https://github.com)** (Odin) - *Low-Level / In Development*
+    A native library written in **Odin** for low-level image file manipulation (BMP). It currently implements the core parser, binary reader, and automated unit testing suite, with upcoming decoder modules.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Frontend**
+`Angular` `NextJS` `React` `TypeScript` `HTML5/CSS3` `SCSS` `TailwindCSS` `Bootstrap` `Material Design`
+
+#### **Backend & Caching**
+`Python` `FastAPI` `NestJS` `NodeJS` `Odin` `Kotlin` `REST APIs` `Microservices` `Redis`
+
+#### **Databases**
+`PostgreSQL` `SQL Server` `MySQL` `Firebase` `MongoDB`
+
+#### **Cloud, DevOps & Environments**
+`Docker` `Kubernetes` `AWS` `GCP (Cloud Run)` `Vercel` `NGINX` `Git` `CI/CD` `Linux (Bash)`
+
+---
+
+### 📈 Career & Impact Highlights
+
+*   💻 **Independent FullStack Developer:** Managing end-to-end cloud architectures, automating deployments, and building modern, high-performance backends with FastAPI and NestJS.
+*   🏛️ **Software Analyst at the Financial Analysis Unit (UAF):** Migrated obsolete legacy systems and scripts into clean, structured Python solutions, **boosting web performance by 55%** and report processing times by 65%.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ezer-mackenzie&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ezer-mackenzie&layout=compact&theme=radical)
+![Github](https://github-readme-stats.vercel.app/api?username=ezer-mackenzie&show_icons=true&theme=radical)  
+![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezer-mackenzie&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Trofeos
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezer-mackenzie&theme=onedark)
-
----
-
-## 📈 Actividad
+### 📈 Activity
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ezer-mackenzie&theme=radical)
 
 ---
 
-## 🚀 Proyectos destacados
+## 🏆 Trophies
 
-- **Turismo Sur** — Sistema de agendamiento turístico (FastAPI + NextJS + PostgreSQL + Vercel)  
-- **Velageo** — Plataforma de monitoreo con despliegue en GCP (NestJS + React + PostgreSQL + GCR)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezer-mackenzie&theme=onedark)
 
 ---
 
-## 📫 Conecta conmigo
+### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli--ezer-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eli-ezer-ramirez)  
-[![Gmail](https://img.shields.io/badge/Gmail-ramirez.ruiz.eliezer.reuven@gmail.com-red?style=flat-square&logo=gmail)](mailto:ramirez.ruiz.eliezer.reuven@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=flat-square&logo=firefox)](https://tu-portfolio.com)
+If you want to collaborate on an open-source project, discuss low-level systems or software architecture, or chat about a career opportunity, feel free to reach out!
+
+*   💼 **LinkedIn:** [Technical Profile](https://www.linkedin.com/in/eli-ezer-ramirez)
+*   📧 **Email:** [ramirez.ruiz.eliezer.reuven@gmail.com](mailto:ramirez.ruiz.eliezer.reuven@gmail.com)
+*   [![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=flat-square&logo=firefox)](https://tu-portfolio.com)
+*   🌐 **Location:** Santiago, Chile
 
 ---
