@@ -15,11 +15,11 @@ I am a **Software Engineer** and **FullStack Developer** based in Santiago, Chil
 
 Here are the tools and libraries I am currently building and maintaining:
 
-*   📦 **[bcch-sdk](https://github.com)** (Python) - *Active / In Development*
+*   📦 **[bcch-sdk](https://pypi.org/project/bcch-sdk/)** (Python) - *Published on PyPI / In Development*
     A Python SDK designed to streamline the integration, consumption, and structured extraction of macroeconomic data series from the **Central Bank of Chile (Banco Central)** official API.
-*   🛠️ **[rut-validator](https://pypi.org)** (Python) - *Published on PyPI / In Development*
+*   🛠️ **[rut-validator](https://pypi.org/project/rut-validator/)** (Python) - *Published on PyPI / In Development*
     An open-source library for **validating and formatting Chilean RUTs**. Distributed officially via PyPI to simplify form validation and data compliance in local software systems.
-*   🦀 **[bmp](https://github.com)** (Odin) - *Low-Level / In Development*
+*   🦀 **[bmp](https://github.com/ezer-mackenzie/bmp)** (Odin) - *Low-Level / In Development*
     A native library written in **Odin** for low-level image file manipulation (BMP). It currently implements the core parser, binary reader, and automated unit testing suite, with upcoming decoder modules.
 
 ---
