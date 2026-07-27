@@ -15,6 +15,8 @@ I am a **Software Engineer** and **FullStack Developer** based in Santiago, Chil
 
 Here are the tools and libraries I am currently building and maintaining:
 
+*   📊 **[benchcore](https://pypi.org/project/benchcore/)** (Python) — *Published on PyPI / Stable*
+A lightweight and extensible benchmarking framework for Python applications and libraries. It provides reusable components for measuring execution performance, running benchmarks, collecting results, and building custom benchmarking workflows.
 *   📦 **[bcch-sdk](https://pypi.org/project/bcch-sdk/)** (Python) - *Published on PyPI / In Development*
     A Python SDK designed to streamline the integration, consumption, and structured extraction of macroeconomic data series from the **Central Bank of Chile (Banco Central)** official API.
 *   🛠️ **[rut-validator](https://pypi.org/project/rut-validator/)** (Python) - *Published on PyPI / In Development*
