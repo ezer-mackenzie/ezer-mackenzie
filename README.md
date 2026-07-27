@@ -49,9 +49,9 @@ Here are the tools and libraries I am currently building and maintaining:
 
 ## 📊 GitHub Stats
 
-![Github](https://github-stats-extended.vercel.app/api?username=ezer-mackenzie&show_icons=true&theme=radical)  
-![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezer-mackenzie&layout=compact&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ezer-mackenzie&show_icons=true&theme=radical)
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ezer-mackenzie&layout=compact&theme=radical)
 ---
 
 ### 📈 Activity
