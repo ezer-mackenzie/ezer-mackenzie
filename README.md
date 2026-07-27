@@ -63,7 +63,6 @@ Here are the tools and libraries I am currently building and maintaining:
 ## 🏆 Trophies
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ezer-mackenzie&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 📫 Let's Connect!
