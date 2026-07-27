@@ -52,6 +52,7 @@ Here are the tools and libraries I am currently building and maintaining:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ezer-mackenzie&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ezer-mackenzie&layout=compact&theme=radical)
+
 ---
 
 ### 📈 Activity
@@ -62,7 +63,8 @@ Here are the tools and libraries I am currently building and maintaining:
 
 ## 🏆 Trophies
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ezer-mackenzie&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ezer-mackenzie&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 ---
 
 ### 📫 Let's Connect!
